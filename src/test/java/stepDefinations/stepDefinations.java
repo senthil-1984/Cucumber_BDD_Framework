@@ -32,6 +32,7 @@ public class stepDefinations {
 	public void home_page_is_populated() throws Throwable {
 		System.out.println("Populate home page");
 		//throw new PendingException();
+		System.out.println("demo");
 	}
 
 	@Then("^Cards are displayed$")
